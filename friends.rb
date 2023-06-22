@@ -8,3 +8,6 @@ puts arrays[-1]
 
 puts arrays[0]
 
+places_to_visit = ["Poland", "Iceland", "Russia", "Ukraine", "England"]
+
+puts places_to_visit.include?("Egypt")
